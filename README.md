@@ -1,1 +1,1 @@
-# codingbat-solutions
+# CodingBat.com all exercisesat-solutions
